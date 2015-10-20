@@ -31,7 +31,7 @@ public class TodoItem {
     @Override
     public String toString() {
         return "TodoItem{" +
-                "description='" + description + '\'' +
+                "title ='" + description + '\'' +
                 ", name='" + name + '\'' +
                 ", due=" + due +
                 '}';
